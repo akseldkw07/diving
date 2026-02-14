@@ -7,5 +7,7 @@
 			"path": "../../../coding/kretsinger"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"chatgpt.openOnStartup": false
+	}
 }
