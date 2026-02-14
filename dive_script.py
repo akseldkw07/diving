@@ -1,10 +1,6 @@
 # from posixpath import split
 import pandas as pd
-import openpyxl
 from openpyxl import load_workbook as lw
-from openpyxl.utils import get_column_letter
-
-from datetime import datetime, timedelta, time
 
 
 def main():
@@ -14,8 +10,8 @@ def main():
     ws = wb["Log"]
     print(ws.max_row)
     print(len(ws["A"]))
-    print(ws["A{}".format(ws.max_row)].value)
-    index_start = ws["A{}".format(ws.max_row)].value + 1
+    print(ws[f"A{ws.max_row}"].value)
+    index_start = ws[f"A{ws.max_row}"].value + 1
     new_dives = pd.read_csv(dive_csv_path)
 
     columns = [
@@ -39,15 +35,11 @@ def main():
     new_dives["Date"] = pd.to_datetime(new_dives["Date"])
     new_dives.sort_values(by=["Date"], ascending=True, inplace=True)
     new_dives["Surface Interval"] = pd.to_timedelta(
-        new_dives["Surface Interval"].apply(
-            lambda x: ("0:" + x) if (x.count(":") < 2) else x
-        )
+        new_dives["Surface Interval"].apply(lambda x: ("0:" + x) if (x.count(":") < 2) else x)
     ).astype(str)
     new_dives["Dive Time In"] = new_dives["Date"].dt.strftime("%I:%M %p")
     new_dives["Date"] = new_dives["Date"].dt.strftime("%-m/%-d/%Y")
-    new_dives["Time"] = (
-        pd.to_timedelta(new_dives["Time"]).dt.total_seconds() / 60
-    ).round(0)
+    new_dives["Time"] = (pd.to_timedelta(new_dives["Time"]).dt.total_seconds() / 60).round(0)
 
     new_dives.reset_index(inplace=True)
     for index in range(8):
@@ -59,13 +51,9 @@ def main():
     print(new_dives.info())
     print(new_dives)
 
-    with pd.ExcelWriter(
-        path=dive_log_path, engine="openpyxl", mode="a", if_sheet_exists="overlay"
-    ) as writer:
+    with pd.ExcelWriter(path=dive_log_path, engine="openpyxl", mode="a", if_sheet_exists="overlay") as writer:
         start_row = len(ws["A"])
-        new_dives.to_excel(
-            writer, sheet_name="Log", index=False, startrow=start_row, header=False
-        )
+        new_dives.to_excel(writer, sheet_name="Log", index=False, startrow=start_row, header=False)
 
 
 if __name__ == "__main__":
