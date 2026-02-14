@@ -42,6 +42,13 @@ World-class drift diving in a UNESCO World Heritage site. Mantas at cleaning sta
 | Wunderpus Liveaboard | Liveaboard (Phinisi) | info@wunderpusliveaboard.com | Yes | Small groups, traditional boats, Komodo + Alor routes |
 | Dragon Dive Komodo (Shenron) | Liveaboard + land-based | diving@dragondivekomodo.com | Yes | PADI 5★ IDC, 8-guest liveaboard, 7–10 night trips |
 | Scuba Republic (Bajak) | Liveaboard | info@scuba-republic.com | Yes | 28m vessel, 14 guests, SSI Diamond Center |
+| Manta Rhei Dive Center | Land-based | info@mantarheidivecenter.com | Yes | Small groups, conservation-focused, strong manta expertise |
+| Blue Marlin Komodo | Land-based | komodo@bluemarlin-dive.com | Yes | Established operator, daily trips + courses, central Labuan Bajo |
+| Uber Scuba Komodo | Land-based | info@uberscubakomodo.com | Yes | Tech-friendly, small boats, good reputation for current management |
+| Flores Diving Centre | Land-based | info@floresdiving.com | Yes | Long-running operator, daily 3-dive trips, camera facilities |
+| Grand Komodo Tours (TemuKira / Putri Papua) | Liveaboard | info@komododive.com | Yes | One of the original Komodo liveaboard operators, multiple vessels |
+| Seahorse Liveaboard | Liveaboard | info@seahorseliveaboard.com | Yes | Budget-friendly option, Komodo-focused itineraries |
+| Le Pirate Explorer | Liveaboard | hello@lepirate.com | Limited | Boutique-style liveaboard, more relaxed dive schedule |
 
 ### Dive Plan
 - 7-night liveaboard covering north + south routes

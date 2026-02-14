@@ -1,90 +1,143 @@
 # Raja Ampat
 
 ## Overview
-The epicenter of global marine biodiversity — 550 coral species, 1,427 fish species, more variety per square meter than anywhere on Earth. Cape Kri holds the world record at 374 fish species counted in a single dive. Shoulder season in May–June means fewer crowds and coral spawning events.
+Arguably the most biodiverse marine ecosystem on Earth, located in the heart of the Coral Triangle. Raja Ampat is known for pristine reefs, massive fish biomass, manta aggregations, and vibrant soft coral gardens. Diving ranges from gentle reef slopes to strong current channels and pinnacles.
+
+---
 
 ## Dates
-- **Window:** May 29–June 5 (per itinerary, Leg 3)
-- **Season:** Shoulder — wet-to-dry transition. Excellent conditions, fewer divers than Oct–Apr peak
-- **Weather:** Sunny days with occasional heavy showers. Seas calming as dry season begins.
+- **Window:** May 28 – June 7 (per itinerary, Leg 3)
+- **Season:** Transition into dry season (excellent conditions)
+- **Weather:** Calmer seas than earlier in the year, reduced rainfall, improving visibility
+
+---
 
 ## Diving
 
 ### Conditions
+
 | Factor | Details |
 |--------|---------|
-| Visibility | 15–25m (good; plankton blooms may reduce from peak) |
-| Water temp | 27–28°C (80–82°F) |
-| Currents | Moderate to strong at some sites, picking up from calmer months |
-| Thermoclines | Occasional — can be significant at depth |
-| Wetsuit | 3mm full suit; 5mm if cold-sensitive at depth |
+| Visibility | 15–30m (can vary with plankton) |
+| Water temp | 27–29°C (80–84°F) |
+| Currents | Moderate to strong in channels and passes |
+| Thermoclines | Rare but possible in deeper channels |
+| Wetsuit | 3mm full suit sufficient |
+
+---
 
 ### Seasonal Events (May–June)
-- Coral spawning in May — underwater "snowstorm" of eggs and sperm
-- Oceanic mantas still passing through Dampier Strait (tail end of Oct–Apr peak)
-- Wobbegong sharks under ledges year-round
-- Pygmy seahorses on gorgonian fans
-- Schooling fish aggregations at pinnacle sites
 
-### Key Dive Sites
+- Manta ray feeding and cleaning station activity (especially Dampier Strait & Misool)
+- Reef fish spawning aggregations (groupers, snappers)
+- Peak coral health and fish biomass following April coral spawning
+- Occasional oceanic manta sightings offshore
+- High probability of reef shark encounters on current-swept sites
+
+---
+
+### Key Regions & Dive Sites
+
+#### Dampier Strait (Central Raja)
+
 | Site | Depth | Highlights | Difficulty |
 |------|-------|------------|------------|
-| Cape Kri | 5–30m | World record 374 fish species, schooling jacks, barracuda, reef sharks | Moderate–Advanced |
-| Blue Magic | 10–30m | Submerged seamount, mantas, grey reef sharks, trevally in the blue | Advanced |
-| Mioskon | 5–25m | Wobbegong sharks, giant gorgonians, pygmy seahorses | Moderate |
-| Sawandarek Jetty | 1–15m | Village jetty shore dive, batfish schools, sweetlips, macro heaven | Easy |
-| Dampier Strait | 5–30m | Current-swept channel, highest biodiversity zone in Raja Ampat | Moderate–Advanced |
-| Melissa's Garden | 5–20m | Pristine hard coral garden, calm water, scenic | Easy–Moderate |
+| Cape Kri | 5–40m | Record fish biodiversity, massive schools, reef sharks | Advanced |
+| Blue Magic | 5–30m | Oceanic manta potential, trevally, barracuda | Advanced |
+| Sardine Reef | 5–30m | Dense fish clouds, reef sharks | Moderate |
+| Mioskon | 5–20m | Turtles, wobbegong sharks, relaxed reef | Easy–Moderate |
 
-### Operators
+#### Misool (South Raja)
+
+| Site | Depth | Highlights | Difficulty |
+|------|-------|------------|------------|
+| Magic Mountain | 5–30m | Reef + oceanic mantas, schooling fish | Advanced |
+| Boo Windows | 5–25m | Iconic swim-throughs, soft coral gardens | Moderate |
+| Fiabacet | 5–30m | Explosive fish biomass, reef sharks | Moderate–Advanced |
+| Nudi Rock | 5–25m | Macro + schooling fish combo | Moderate |
+
+---
+
+## Operators
+
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Raja Ampat Dive Lodge | Land-based resort | info@rajaampat-divelodge.com | Yes | Mansuar Island, Dampier Strait, house reef, beachfront |
-| Scuba Republic (Epica/Jaya) | Liveaboard | info@scuba-republic.com | Yes | Budget-friendly, 6–10 day routes, SSI courses |
-| Aggressor Fleet (RA Aggressor) | Liveaboard | info@aggressor.com | Yes | Premium luxury, 7–10 nights from Sorong |
+| Papua Explorers | Resort + Day Boats | info@papuaexplorers.com | Yes | Strong marine biology focus, house reef access, Dampier Strait base |
+| Meridian Adventure Dive | Resort | info@meridianadventure.com | Yes | Camera facilities, good for photographers |
+| Raja Ampat Dive Lodge | Resort | reservations@rajaampatdivelodge.com | Yes | Comfortable land-based option, central location |
+| Soul Scuba Divers | Land-based | reservations@soulscuba.com | Yes | Small groups, conservation-minded |
+| Misool Eco Resort | Resort | reservations@misoolecoresort.com | Yes | Premium eco-resort in south Raja, pristine reefs, conservation-focused |
+| Aggressor Adventures (Raja Ampat Aggressor) | Liveaboard | rajaampat@aggressor.com | Yes | International fleet standards, predictable operations |
+| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, good for photographers |
+| Indo Siren (Master Liveaboards) | Liveaboard | info@masterliveaboards.com | Yes | Mid–premium tier, longer itineraries |
+| Coralia Liveaboard | Liveaboard | info@coralia-liveaboard.com | Yes | Boutique phinisi, small groups |
+| Amira Liveaboard | Liveaboard | info@amiraboard.com | Yes | Long-standing Indonesia specialist |
+| Damai Liveaboards | Luxury Liveaboard | info@damaii.com | Yes | High-end luxury, very spacious dive deck |
 
-### Dive Plan
-- 7–8 days, land-based resort or liveaboard
-- 3–4 dives/day, ~21–28 dives total
-- Mix of pinnacle dives, jetty dives, and reef explorations
-- Nitrox recommended for multi-dive days
+---
+
+## Dive Plan
+
+- 7–10 night liveaboard recommended to cover north + south regions
+- 3–4 dives per day, ~24–30 dives total
+- Nitrox strongly recommended
+- Priority: Cape Kri, Blue Magic, Magic Mountain, Boo Windows
+
+---
 
 ## Logistics
 
 ### Getting There
-- Fly to **Sorong (SOQ)** — connect via Makassar (UPG) or Jakarta (CGK) from Labuan Bajo
-- No direct LBJ → SOQ flights. Budget a full travel day.
-- From Sorong: fast boat to resort/liveaboard embarkation (~1–2 hrs to Dampier Strait area)
-- **Arrive a day early** — domestic flight delays/cancellations common in eastern Indonesia
+
+- International flight → Jakarta (CGK) or Bali (DPS)
+- Domestic flight to **Sorong (SOQ)**
+- Operators typically provide airport pickup
+- Most liveaboards depart Sorong harbor
 
 ### Getting Out
-- Fly Sorong → Jakarta or Bali → international connection home
-- Or Sorong → next destination if continuing trip
 
-### Accommodation
-- **Dive resorts:** Mansuar Island, Kri Island — beachfront bungalows, $150–350/night
-- **Homestays:** Available on local islands, $50–100/night including meals
-- **Liveaboard:** cabin included in trip price
+- Fly Sorong → Jakarta or Bali for international connection
+- Allow buffer day for domestic flight variability
 
-### Costs
+---
+
+## Accommodation (Land-Based Option)
+
+| Type | Price Range (USD/night) |
+|------|--------------------------|
+| Homestay | $35–60 |
+| Mid-range Dive Resort | $150–300 |
+| Premium Eco Resort | $500–1,200 |
+
+---
+
+## Costs
+
 | Item | Estimate (USD) |
 |------|---------------|
-| Raja Ampat resort or liveaboard (7–8 nights) | $2,000–5,000 |
-| Domestic flights (LBJ → SOQ via hub) | $150–300 |
-| Raja Ampat marine park permit (TAG) | ~$65 (IDR 1,000,000) |
-| Fast boat transfers | $50–100 |
-| Nitrox surcharge | $5–10/tank |
+| 7–10 night liveaboard | $2,500–6,000 |
+| Domestic flight to Sorong | $150–350 |
+| Raja Ampat marine park fee | ~$100 (valid for 1 year) |
+| Nitrox surcharge | $5–15/tank |
+| Homestay daily dive package | ~$120–180/day |
 
-### Practical Info
-- **Visa:** Indonesia e-VoA (same as Komodo leg)
-- **Currency:** IDR. Very limited ATMs in Sorong — bring cash. Resorts may accept USD.
-- **Connectivity:** Minimal. Some resorts have satellite WiFi (slow). No reliable cell signal on most islands.
-- **Hyperbaric chamber:** Sorong has a basic facility. Manado is the nearest reliable chamber.
-- **Park permit (TAG):** Purchase in Waisai or online. ~IDR 1,000,000 for foreign visitors. Valid 1 year.
+---
+
+## Practical Info
+
+- **Visa:** Indonesia e-VoA (~$35)
+- **Currency:** IDR; limited ATMs in Sorong
+- **Connectivity:** Limited outside Sorong; assume no reliable data at sea
+- **Hyperbaric chamber:** Sorong has basic chamber; Bali is nearest full facility
+- **SMB required** for current diving
+- Surface marker and reef hook commonly used
+
+---
 
 ## Notes
-- This is the world's #1 reef biodiversity destination — the diving here is hard to beat
-- May coral spawning is a special event if timing lines up
-- Pack reef-safe sunscreen — it's a marine protected area
-- Electricity may be generator-based at remote resorts (limited hours)
-- Consider bringing a power bank and extra memory cards
+
+- May–June offers ideal balance of visibility and plankton (good manta odds)
+- North (Dampier Strait) = fish density + currents  
+- South (Misool) = pristine reefs + manta hotspots  
+- Liveaboard provides best coverage; land-based works well for Dampier Strait only
+- Book well in advance — peak season overlaps with European summer planning
