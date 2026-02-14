@@ -137,7 +137,7 @@ Arguably the most biodiverse marine ecosystem on Earth, located in the heart of 
 ## Notes
 
 - May–June offers ideal balance of visibility and plankton (good manta odds)
-- North (Dampier Strait) = fish density + currents  
-- South (Misool) = pristine reefs + manta hotspots  
+- North (Dampier Strait) = fish density + currents
+- South (Misool) = pristine reefs + manta hotspots
 - Liveaboard provides best coverage; land-based works well for Dampier Strait only
 - Book well in advance — peak season overlaps with European summer planning

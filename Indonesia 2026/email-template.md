@@ -1,6 +1,6 @@
 # Instructions
 
-Ask about 
+Ask about
 
 - seasonal events occuring during that window
 
@@ -10,7 +10,7 @@ Ask about
 
 - accommodation recommendations (e.g. liveaboard, resort, homestay)
 
-- misc tips 
+- misc tips
 
 # Email Template — Dive Operator Inquiry
 
