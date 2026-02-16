@@ -36,8 +36,9 @@ An archipelago off East Kalimantan (Borneo) with a rare combination of attractio
 ### Operators
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Derawan Dive Lodge (Tasik Divers) | Land-based resort | info@derawandivelodge.com | TBC | PADI 5★, full-service resort with transfers and tours |
-| ScubaJunkie Sangalaki | Land-based | sangalaki@scubajunkie.com | TBC | Manta diving focus, Sangalaki Island based |
+| Derawan Dive Lodge (Tasik Divers) | Land-based resort | info@derawandivelodge.com | Yes | PADI 5★, full-service resort with transfers and tours |
+| ScubaJunkie Sangalaki | Land-based resort | [email protected] | Yes | PADI 5★, manta diving focus, Sangalaki Island based |
+| Nabucco Island Resort | Resort | via booking sites | TBC | Maratua atoll location, full facilities |
 
 ### Dive Plan
 - 5–7 days covering all major sites

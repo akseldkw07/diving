@@ -39,9 +39,12 @@ Off-the-beaten-path diving in eastern Indonesia. Alor sits in the strait between
 ### Operators
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Alor Divers | Land-based | via alordivers.com | TBC | Small operation, responsive via WhatsApp |
-| Dive Alor Dive | Land-based | via divealordive.com | TBC | Local operator, accommodation packages |
+| Alor Divers | Land-based resort | info@alor-divers.com | Yes | Established operator, accommodation packages |
+| Dive Alor Dive | Land-based | via divealordive.com | Yes | 22+ years operating, local expertise |
+| Alor Tanapi Resort | Boutique resort | info@alortanapi.com | Yes | New 2023, modern facility |
 | Wunderpus Liveaboard | Liveaboard (Komodo + Alor) | info@wunderpusliveaboard.com | Yes | Combined Komodo–Alor routes from LBJ |
+| Emperor Divers (Raja Laut) | Liveaboard | info@emperordivers.com | Yes | Alor specialist, 12-guest schooner |
+| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Multi-destination routes including Alor |
 
 ### Dive Plan
 - 4–7 days, land-based or as part of a Komodo → Alor liveaboard extension

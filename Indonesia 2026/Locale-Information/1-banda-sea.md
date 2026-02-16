@@ -41,6 +41,10 @@ Access is **liveaboard only** for most Banda Sea sites. Book early — trips are
 | Dewi Nusantara | Luxury liveaboard | via dewi-nusantara.com | Yes | Premier Indonesian liveaboard, Banda Sea routes Apr–May |
 | Damai | Luxury liveaboard | dfriedrich@gmail.com | Yes | Charter inquiries, high-end operation |
 | Aggressor Fleet | Liveaboard | info@aggressor.com | Yes | Established fleet, multiple Indonesia routes |
+| Master Liveaboards (Indo Master) | Premium liveaboard | dive@masterliveaboards.com | Yes | 47m vessel built 2022, photo-friendly |
+| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, multi-destination routes |
+| Wallacea Dive Cruise | Liveaboard | info@wallacea-divecruise.com | Yes | Operating since 2002, Banda Sea specialist |
+| Solitude Adventurer | Liveaboard | emailus@solitude-liveaboards.com | Yes | Growing reputation, professional operation |
 
 ### Dive Plan
 - 9–10 night expedition typical

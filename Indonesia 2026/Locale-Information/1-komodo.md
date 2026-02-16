@@ -42,6 +42,9 @@ World-class drift diving in a UNESCO World Heritage site. Mantas at cleaning sta
 | Wunderpus Liveaboard | Liveaboard (Phinisi) | info@wunderpusliveaboard.com | Yes | Small groups, traditional boats, Komodo + Alor routes |
 | Dragon Dive Komodo (Shenron) | Liveaboard + land-based | diving@dragondivekomodo.com | Yes | PADI 5★ IDC, 8-guest liveaboard, 7–10 night trips |
 | Scuba Republic (Bajak) | Liveaboard | info@scuba-republic.com | Yes | 28m vessel, 14 guests, SSI Diamond Center |
+| Uber Scuba (Amalia) | Liveaboard | via uberscubakomodo.com | Yes | Budget-friendly, popular TripAdvisor reviews |
+| Mermaid Liveaboards | Liveaboard (Mermaid I, II) | info@mermaid-liveaboards.com | Yes | Multiple Indonesia destinations, established operator |
+| Blue Marlin Dive Komodo | Land-based resort | info@bluemarlinkomodo.com | Yes | PADI 5★ IDC, day trips from Labuan Bajo |
 | Manta Rhei Dive Center | Land-based | info@mantarheidivecenter.com | Yes | Small groups, conservation-focused, strong manta expertise |
 | Blue Marlin Komodo | Land-based | komodo@bluemarlin-dive.com | Yes | Established operator, daily trips + courses, central Labuan Bajo |
 | Uber Scuba Komodo | Land-based | info@uberscubakomodo.com | Yes | Tech-friendly, small boats, good reputation for current management |
