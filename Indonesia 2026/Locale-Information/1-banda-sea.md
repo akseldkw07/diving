@@ -40,7 +40,7 @@ Access is **liveaboard only** for most Banda Sea sites. Book early — trips are
 
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| [Dewi Nusantara](https://dewi-nusantara.com) | Luxury liveaboard | via dewi-nusantara.com | Yes | Premier Indonesian liveaboard, Banda Sea routes Apr–May |
+| [Dewi Nusantara](https://dewi-nusantara.com) | Luxury liveaboard | sales@dewi-nusantara.com| Yes | Premier Indonesian liveaboard, Banda Sea routes Apr–May |
 | [Damai](https://dive-damai.com) | Luxury liveaboard | dfriedrich@gmail.com | Yes | Charter inquiries, high-end operation |
 | [Aggressor Fleet](https://aggressor.com) | Liveaboard | info@aggressor.com | Yes | Established fleet, multiple Indonesia routes |
 | [Master Liveaboards (Indo Master)](https://masterliveaboards.com) | Premium liveaboard | dive@masterliveaboards.com | Yes | 47m vessel built 2022, photo-friendly |

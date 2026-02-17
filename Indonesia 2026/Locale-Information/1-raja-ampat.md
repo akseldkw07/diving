@@ -1,7 +1,5 @@
 # Raja Ampat
 
-![Raja Ampat](maps/raja-ampat.png)
-
 ## Overview
 Arguably the most biodiverse marine ecosystem on Earth, located in the heart of the Coral Triangle. Raja Ampat is known for pristine reefs, massive fish biomass, manta aggregations, and vibrant soft coral gardens. Diving ranges from gentle reef slopes to strong current channels and pinnacles.
 

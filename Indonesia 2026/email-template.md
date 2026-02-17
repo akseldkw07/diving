@@ -28,7 +28,7 @@ A bit about me: I'm a Dive Master (+ nitrox & deep diving cert) with 200 logged 
 
 I had a few questions:
 
-1. **Availability** — Do you have availability for [DATES]? [FOR LIVEABOARDS: I'm looking at a 4–7 night trip if possible.]
+1. **Availability** — Do you have availability for [DATES]? [FOR LIVEABOARDS: I'm looking at a 4–10 night trip if possible.]. If not, are there any other operators you'd recommend in the area that might have openings?
 
 2. **Pricing** — Are the rates on your website up to date? I expect to do 3+ dives per day, nitrox if available, and I own all my gear. Do you offer any packages or discounts for multiple dives?
 
