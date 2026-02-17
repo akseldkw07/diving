@@ -1,5 +1,7 @@
 # Alor
 
+![Alor](maps/alor.png)
+
 ## Overview
 Off-the-beaten-path diving in eastern Indonesia. Alor sits in the strait between Flores and Timor, where cold nutrient-rich upwellings attract an unusual mix of big pelagics — mola mola (ocean sunfish), sperm whales, dolphins, hammerheads, thresher sharks — alongside healthy reefs and excellent macro. Very few divers make it here, and that's part of the appeal.
 
@@ -39,12 +41,12 @@ Off-the-beaten-path diving in eastern Indonesia. Alor sits in the strait between
 ### Operators
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Alor Divers | Land-based resort | info@alor-divers.com | Yes | Established operator, accommodation packages |
-| Dive Alor Dive | Land-based | via divealordive.com | Yes | 22+ years operating, local expertise |
-| Alor Tanapi Resort | Boutique resort | info@alortanapi.com | Yes | New 2023, modern facility |
-| Wunderpus Liveaboard | Liveaboard (Komodo + Alor) | info@wunderpusliveaboard.com | Yes | Combined Komodo–Alor routes from LBJ |
-| Emperor Divers (Raja Laut) | Liveaboard | info@emperordivers.com | Yes | Alor specialist, 12-guest schooner |
-| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Multi-destination routes including Alor |
+| [Alor Divers](https://alor-divers.com) | Land-based resort | info@alor-divers.com | Yes | Established operator, accommodation packages |
+| [Dive Alor Dive](https://divealordive.com) | Land-based | via divealordive.com | Yes | 22+ years operating, local expertise |
+| [Alor Tanapi Resort](https://alortanapi.com) | Boutique resort | info@alortanapi.com | Yes | New 2023, modern facility |
+| [Wunderpus Liveaboard](https://wunderpusliveaboard.com) | Liveaboard (Komodo + Alor) | info@wunderpusliveaboard.com | Yes | Combined Komodo–Alor routes from LBJ |
+| [Emperor Divers (Raja Laut)](https://emperordivers.com) | Liveaboard | info@emperordivers.com | Yes | Alor specialist, 12-guest schooner |
+| [Mermaid Liveaboards](https://mermaid-liveaboards.com) | Liveaboard | info@mermaid-liveaboards.com | Yes | Multi-destination routes including Alor |
 
 ### Dive Plan
 - 4–7 days, land-based or as part of a Komodo → Alor liveaboard extension

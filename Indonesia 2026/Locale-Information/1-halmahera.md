@@ -1,5 +1,7 @@
 # Halmahera
 
+![Halmahera](maps/halmahera.png)
+
 ## Overview
 The "next Raja Ampat" — genuinely remote, genuinely pristine. Halmahera sits between North Sulawesi and West Papua in the heart of the Coral Triangle, with 450+ coral species and minimal tourism impact. Pelagics patrol nutrient-rich channels, macro life thrives on black sand slopes, and you'll likely be the only divers on most sites. This is exploration diving at its purest.
 
@@ -41,11 +43,11 @@ The "next Raja Ampat" — genuinely remote, genuinely pristine. Halmahera sits b
 
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Wallacea Dive Cruise | Liveaboard (Ambai, Seahorse) | info@wallacea-divecruise.com | Yes | Operating since 2002, Tifore/Ternate/Bacan routes |
-| Mermaid Liveaboards | Liveaboard (Mermaid I, II) | info@mermaid-liveaboards.com | Yes | 10-day Halmahera $3,440/person; 12-day RA–Halmahera–Lembeh $5,365 |
-| Konjo Cruising Indonesia | Liveaboard (JAKARE) | via konjocruisingindonesia.com | Yes | Halmahera specialist since 2013, private/shared cabins |
-| Damai I & II | Luxury liveaboard | via dive-damai.com | Yes | High-end operation, Halmahera routes |
-| Jelajahi Laut (Mikumba) | Liveaboard | [email protected] | Yes | Eco-conscious operator, WhatsApp 8am-8pm Bali time |
+| [Wallacea Dive Cruise](https://wallacea-divecruise.com) | Liveaboard (Ambai, Seahorse) | info@wallacea-divecruise.com | Yes | Operating since 2002, Tifore/Ternate/Bacan routes |
+| [Mermaid Liveaboards](https://mermaid-liveaboards.com) | Liveaboard (Mermaid I, II) | info@mermaid-liveaboards.com | Yes | 10-day Halmahera $3,440/person; 12-day RA–Halmahera–Lembeh $5,365 |
+| [Konjo Cruising Indonesia](https://konjocruisingindonesia.com) | Liveaboard (JAKARE) | via konjocruisingindonesia.com | Yes | Halmahera specialist since 2013, private/shared cabins |
+| [Damai I & II](https://dive-damai.com) | Luxury liveaboard | via dive-damai.com | Yes | High-end operation, Halmahera routes |
+| [Jelajahi Laut (Mikumba)](https://mikumbadiving.com) | Liveaboard | [email protected] | Yes | Eco-conscious operator, WhatsApp 8am-8pm Bali time |
 
 ### Dive Plan
 - 10-day liveaboard recommended for May window

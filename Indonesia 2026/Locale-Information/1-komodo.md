@@ -1,5 +1,7 @@
 # Komodo National Park
 
+![Komodo National Park](maps/komodo.png)
+
 ## Overview
 World-class drift diving in a UNESCO World Heritage site. Mantas at cleaning stations, reef sharks on current-swept pinnacles, and some of the most vibrant coral in the Coral Triangle. Strong currents make this a playground for experienced divers.
 
@@ -39,19 +41,19 @@ World-class drift diving in a UNESCO World Heritage site. Mantas at cleaning sta
 ### Operators
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Wunderpus Liveaboard | Liveaboard (Phinisi) | info@wunderpusliveaboard.com | Yes | Small groups, traditional boats, Komodo + Alor routes |
-| Dragon Dive Komodo (Shenron) | Liveaboard + land-based | diving@dragondivekomodo.com | Yes | PADI 5★ IDC, 8-guest liveaboard, 7–10 night trips |
-| Scuba Republic (Bajak) | Liveaboard | info@scuba-republic.com | Yes | 28m vessel, 14 guests, SSI Diamond Center |
-| Uber Scuba (Amalia) | Liveaboard | via uberscubakomodo.com | Yes | Budget-friendly, popular TripAdvisor reviews |
-| Mermaid Liveaboards | Liveaboard (Mermaid I, II) | info@mermaid-liveaboards.com | Yes | Multiple Indonesia destinations, established operator |
-| Blue Marlin Dive Komodo | Land-based resort | info@bluemarlinkomodo.com | Yes | PADI 5★ IDC, day trips from Labuan Bajo |
-| Manta Rhei Dive Center | Land-based | info@mantarheidivecenter.com | Yes | Small groups, conservation-focused, strong manta expertise |
-| Blue Marlin Komodo | Land-based | komodo@bluemarlin-dive.com | Yes | Established operator, daily trips + courses, central Labuan Bajo |
-| Uber Scuba Komodo | Land-based | info@uberscubakomodo.com | Yes | Tech-friendly, small boats, good reputation for current management |
-| Flores Diving Centre | Land-based | info@floresdiving.com | Yes | Long-running operator, daily 3-dive trips, camera facilities |
-| Grand Komodo Tours (TemuKira / Putri Papua) | Liveaboard | info@komododive.com | Yes | One of the original Komodo liveaboard operators, multiple vessels |
-| Seahorse Liveaboard | Liveaboard | info@seahorseliveaboard.com | Yes | Budget-friendly option, Komodo-focused itineraries |
-| Le Pirate Explorer | Liveaboard | hello@lepirate.com | Limited | Boutique-style liveaboard, more relaxed dive schedule |
+| [Wunderpus Liveaboard](https://wunderpusliveaboard.com) | Liveaboard (Phinisi) | info@wunderpusliveaboard.com | Yes | Small groups, traditional boats, Komodo + Alor routes |
+| [Dragon Dive Komodo (Shenron)](https://dragondivekomodo.com) | Liveaboard + land-based | diving@dragondivekomodo.com | Yes | PADI 5★ IDC, 8-guest liveaboard, 7–10 night trips |
+| [Scuba Republic (Bajak)](https://scuba-republic.com) | Liveaboard | info@scuba-republic.com | Yes | 28m vessel, 14 guests, SSI Diamond Center |
+| [Uber Scuba (Amalia)](https://uberscubakomodo.com) | Liveaboard | via uberscubakomodo.com | Yes | Budget-friendly, popular TripAdvisor reviews |
+| [Mermaid Liveaboards](https://mermaid-liveaboards.com) | Liveaboard (Mermaid I, II) | info@mermaid-liveaboards.com | Yes | Multiple Indonesia destinations, established operator |
+| [Blue Marlin Dive Komodo](https://bluemarlinkomodo.com) | Land-based resort | info@bluemarlinkomodo.com | Yes | PADI 5★ IDC, day trips from Labuan Bajo |
+| [Manta Rhei Dive Center](https://mantarheidivecenter.com) | Land-based | info@mantarheidivecenter.com | Yes | Small groups, conservation-focused, strong manta expertise |
+| [Blue Marlin Komodo](https://bluemarlin-dive.com) | Land-based | komodo@bluemarlin-dive.com | Yes | Established operator, daily trips + courses, central Labuan Bajo |
+| [Uber Scuba Komodo](https://uberscubakomodo.com) | Land-based | info@uberscubakomodo.com | Yes | Tech-friendly, small boats, good reputation for current management |
+| [Flores Diving Centre](https://floresdiving.com) | Land-based | info@floresdiving.com | Yes | Long-running operator, daily 3-dive trips, camera facilities |
+| [Grand Komodo Tours (TemuKira / Putri Papua)](https://komododive.com) | Liveaboard | info@komododive.com | Yes | One of the original Komodo liveaboard operators, multiple vessels |
+| [Seahorse Liveaboard](https://seahorseliveaboard.com) | Liveaboard | info@seahorseliveaboard.com | Yes | Budget-friendly option, Komodo-focused itineraries |
+| [Le Pirate Explorer](https://lepirate.com) | Liveaboard | hello@lepirate.com | Limited | Boutique-style liveaboard, more relaxed dive schedule |
 
 ### Dive Plan
 - 7-night liveaboard covering north + south routes

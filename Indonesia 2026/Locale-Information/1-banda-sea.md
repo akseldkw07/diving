@@ -1,5 +1,7 @@
 # Banda Sea / Banda Islands
 
+![Banda Sea](maps/banda-sea.png)
+
 ## Overview
 Remote, pristine, and steeped in history — the original Spice Islands. The Banda Sea offers dramatic underwater topography along the Ring of Fire, big pelagic encounters, and healthy reef systems rarely touched by other divers. Access is liveaboard-only for most sites. Timing is critical: May is excellent, but June brings monsoon conditions that shut diving down.
 
@@ -38,13 +40,13 @@ Access is **liveaboard only** for most Banda Sea sites. Book early — trips are
 
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Dewi Nusantara | Luxury liveaboard | via dewi-nusantara.com | Yes | Premier Indonesian liveaboard, Banda Sea routes Apr–May |
-| Damai | Luxury liveaboard | dfriedrich@gmail.com | Yes | Charter inquiries, high-end operation |
-| Aggressor Fleet | Liveaboard | info@aggressor.com | Yes | Established fleet, multiple Indonesia routes |
-| Master Liveaboards (Indo Master) | Premium liveaboard | dive@masterliveaboards.com | Yes | 47m vessel built 2022, photo-friendly |
-| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, multi-destination routes |
-| Wallacea Dive Cruise | Liveaboard | info@wallacea-divecruise.com | Yes | Operating since 2002, Banda Sea specialist |
-| Solitude Adventurer | Liveaboard | emailus@solitude-liveaboards.com | Yes | Growing reputation, professional operation |
+| [Dewi Nusantara](https://dewi-nusantara.com) | Luxury liveaboard | via dewi-nusantara.com | Yes | Premier Indonesian liveaboard, Banda Sea routes Apr–May |
+| [Damai](https://dive-damai.com) | Luxury liveaboard | dfriedrich@gmail.com | Yes | Charter inquiries, high-end operation |
+| [Aggressor Fleet](https://aggressor.com) | Liveaboard | info@aggressor.com | Yes | Established fleet, multiple Indonesia routes |
+| [Master Liveaboards (Indo Master)](https://masterliveaboards.com) | Premium liveaboard | dive@masterliveaboards.com | Yes | 47m vessel built 2022, photo-friendly |
+| [Mermaid Liveaboards](https://mermaid-liveaboards.com) | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, multi-destination routes |
+| [Wallacea Dive Cruise](https://wallacea-divecruise.com) | Liveaboard | info@wallacea-divecruise.com | Yes | Operating since 2002, Banda Sea specialist |
+| [Solitude Adventurer](https://solitude-liveaboards.com) | Liveaboard | emailus@solitude-liveaboards.com | Yes | Growing reputation, professional operation |
 
 ### Dive Plan
 - 9–10 night expedition typical

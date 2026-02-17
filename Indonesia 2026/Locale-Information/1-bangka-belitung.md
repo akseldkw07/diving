@@ -1,5 +1,7 @@
 # Bangka Belitung Islands (Belitung)
 
+![Bangka Belitung](maps/bangka-belitung.png)
+
 ## Overview
 Underwater granite wonderland. Massive granite boulders extend from land into the sea, creating maze-like formations draped in coral. UNESCO Geopark status recognizes the geological significance, and the diving is as unique as the landscape. Crystal-clear water, pristine reefs, and almost no crowds. This is geology meets marine biology.
 
@@ -37,12 +39,12 @@ Underwater granite wonderland. Massive granite boulders extend from land into th
 
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Rock & Wreck Dive Resort | Land-based resort | info@rockandwreckresort.com | Yes | Primary Belitung dive resort. Beachfront, daily dive boats, 25+ sites within 30 min. |
+| [Rock & Wreck Dive Resort](https://rockandwreckresort.com) | Land-based resort | info@rockandwreckresort.com | Yes | Primary Belitung dive resort. Beachfront, daily dive boats, 25+ sites within 30 min. |
 
 **For more developed diving, consider Bangka Island (North Sulawesi):**
-- Nomad Divers Bangka (info@nomaddiversbangka.com)
-- Murex Resorts Bangka ([email protected])
-- Bastianos Bangka (via bastianos.com)
+- [Nomad Divers Bangka](https://nomaddiversbangka.com) (info@nomaddiversbangka.com)
+- [Murex Resorts Bangka](https://murexresorts.com) ([email protected])
+- [Bastianos Bangka](https://bastianos.com) (via bastianos.com)
 
 ### Dive Plan
 - 5–7 days, land-based resort

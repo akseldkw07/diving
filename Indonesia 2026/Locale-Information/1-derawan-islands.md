@@ -1,5 +1,7 @@
 # Derawan Islands
 
+![Derawan Islands](maps/derawan-islands.png)
+
 ## Overview
 An archipelago off East Kalimantan (Borneo) with a rare combination of attractions: daily manta encounters at Sangalaki, a jellyfish lake at Kakaban (similar to Palau's), big pelagics at Maratua atoll, and nesting sea turtles. Less visited than Komodo or Raja Ampat, Derawan offers a unique Borneo-side Indonesian diving experience.
 
@@ -36,8 +38,8 @@ An archipelago off East Kalimantan (Borneo) with a rare combination of attractio
 ### Operators
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Derawan Dive Lodge (Tasik Divers) | Land-based resort | info@derawandivelodge.com | Yes | PADI 5★, full-service resort with transfers and tours |
-| ScubaJunkie Sangalaki | Land-based resort | [email protected] | Yes | PADI 5★, manta diving focus, Sangalaki Island based |
+| [Derawan Dive Lodge (Tasik Divers)](https://derawandivelodge.com) | Land-based resort | info@derawandivelodge.com | Yes | PADI 5★, full-service resort with transfers and tours |
+| [ScubaJunkie Sangalaki](https://scubajunkiesangalaki.com) | Land-based resort | [email protected] | Yes | PADI 5★, manta diving focus, Sangalaki Island based |
 | Nabucco Island Resort | Resort | via booking sites | TBC | Maratua atoll location, full facilities |
 
 ### Dive Plan

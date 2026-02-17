@@ -20,11 +20,11 @@ Ask about
 
 ---
 
-Hi there,
+Hi [OPERATOR-NAME],
 
 I'm planning a diving trip to [LOCATION] around [DATES] and came across your operation while researching the area. I'd love to get some information if you have a moment.
 
-A bit about me: I'm a Dive Master (+ nitrox, deep cert) with 200 logged dives, comfortable in current, and I dive on nitrox when available. I'm hoping to bring 2-4 dive buddies of similar experience level.
+A bit about me: I'm a Dive Master (+ nitrox & deep diving cert) with 200 logged dives, comfortable in current, and I dive on nitrox when available. I'm hoping to bring 2-4 dive buddies of similar experience level.
 
 I had a few questions:
 
