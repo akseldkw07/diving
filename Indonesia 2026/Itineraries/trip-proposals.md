@@ -38,8 +38,8 @@
 | **New** | [Neomi](https://www.liveaboard.com/diving/indonesia/neomi?m=5/2026) | May 26 - Jun 2| 7N | SWQ→LBJ | $3,150 | LA | New boat. 7N Komodo. Ends Jun 2. |
 | **K3** | [Shenron](https://www.zubludiving.com/liveaboard/indonesia/shenron) | May 26–30 | 4N | LBJ→LBJ | $1,336 | ZB | Budget. Komodo Highlights. Dragon Dive Komodo boat. |
 | **K4** | [Blue Lotus](https://www.liveaboard.com/diving/indonesia/blue-lotus) | May 26–29 | 3N | LBJ→LBJ | $1,566 | LA | −25%. Short Komodo sampler. |
-| **K6** | [Bajak](https://www.zubludiving.com/liveaboard/indonesia/bajak) | May 27–30 | 3N | LBJ→LBJ | $780 | ZB | Ultra budget. Short. |
 | **K7** | [Blue Lotus](https://www.liveaboard.com/diving/indonesia/blue-lotus) | May 30 – ~Jun 2 | 3N | LBJ→LBJ | $1,566 | LA | −25%. Late-start sampler (pairs with Aggressor). |
+| **K6** | [Bajak](https://www.zubludiving.com/liveaboard/indonesia/bajak) | May 27–30 | 3N | LBJ→LBJ | $780 | ZB | Ultra budget. Short. |
 | **K8** | [Mimic](https://www.zubludiving.com/liveaboard/indonesia/mimic) | May 30 – Jun 3 | 4N | LBJ→LBJ | $1,025 | ZB | Budget. Only 2 spaces. Ends Jun 3. |
 | **K9** | [Nusantara Mikumba](https://www.zubludiving.com/liveaboard/indonesia/nusantara-mikumba) | May 31 – Jun 3 | 3N | LBJ→LBJ | $840 | ZB | Ultra budget. Ends Jun 3. |
 |...| [Blue Manta](https://www.liveaboard.com/diving/indonesia/blue-manta?m=5/2026) | May 18 1pm – May 28 10am | 10N | LBJ→ARD | $4,860 | LA | Premium Raja + Komodo. Ends May 28 — too early for leg 2. |
@@ -47,7 +47,8 @@
 |*|[Komodo Sea Dragon](https://www.liveaboard.com/diving/indonesia/komodo-sea-dragon?m=5/2026) | May 16–21 | 5N | LBJ→LBJ | $2,268 | LA
 |||May 23-30 | 7N | LBJ→LBJ | $2,190 | LA
 | * | [Ecopro Duyung Baru](https://www.liveaboard.com/diving/indonesia/duyung-baru?m=5/2026) | May 21-26 | 5N | LBJ→LBJ | $1,400 | LA | Budget. Short. |
-
+|...| [ScubaSpa-Zen](https://www.liveaboard.com/diving/indonesia/scubaspa-zen) | 30 May - Jun 6 | Yes | LBJ→LBJ | 4950 | ...|
+| | | 22 May 7am - 29 May 11am |
 ## Suggested Mix & Match Chains
 
 ### Option A — Maximum Dive Days (17–19 Nights)
