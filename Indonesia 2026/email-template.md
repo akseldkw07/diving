@@ -12,6 +12,14 @@ Ask about
 
 - misc tips
 
+## Online Questionnaire form
+
+- How many dives are planned per day? What is the max # of dives? How flexible is the schedule, in the case that I was interested in doing a 4th dive on a given day?
+
+- Are drones allowed (purely for shooting footage?)
+
+
+
 # Email Template — Dive Operator Inquiry
 
 ---
