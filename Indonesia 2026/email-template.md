@@ -18,6 +18,7 @@ Ask about
 
 - Are drones allowed (purely for shooting footage?)
 
+- My travel is very tight - if I arrived a day late due to delays, would I be able to join the trip late? (e.g. hire a private boat to take me to the liveaboard from port)
 
 
 # Email Template — Dive Operator Inquiry
