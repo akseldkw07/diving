@@ -62,17 +62,17 @@ Arguably the most biodiverse marine ecosystem on Earth, located in the heart of 
 
 | Operator | Type | Email | Nitrox | Notes |
 |----------|------|-------|--------|-------|
-| Papua Explorers | Resort + Day Boats | info@papuaexplorers.com | Yes | Strong marine biology focus, house reef access, Dampier Strait base |
-| Meridian Adventure Dive | Resort | info@meridianadventure.com | Yes | Camera facilities, good for photographers |
-| Raja Ampat Dive Lodge | Resort | reservations@rajaampatdivelodge.com | Yes | Comfortable land-based option, central location |
-| Soul Scuba Divers | Land-based | reservations@soulscuba.com | Yes | Small groups, conservation-minded |
-| Misool Eco Resort | Resort | reservations@misoolecoresort.com | Yes | Premium eco-resort in south Raja, pristine reefs, conservation-focused |
-| Aggressor Adventures (Raja Ampat Aggressor) | Liveaboard | rajaampat@aggressor.com | Yes | International fleet standards, predictable operations |
-| Mermaid Liveaboards | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, good for photographers |
-| Indo Siren (Master Liveaboards) | Liveaboard | info@masterliveaboards.com | Yes | Mid–premium tier, longer itineraries |
-| Coralia Liveaboard | Liveaboard | info@coralia-liveaboard.com | Yes | Boutique phinisi, small groups |
-| Amira Liveaboard | Liveaboard | info@amiraboard.com | Yes | Long-standing Indonesia specialist |
-| Damai Liveaboards | Luxury Liveaboard | info@damaii.com | Yes | High-end luxury, very spacious dive deck |
+| [Papua Explorers](https://papuaexplorers.com) | Resort + Day Boats | info@papuaexplorers.com | Yes | Strong marine biology focus, house reef access, Dampier Strait base |
+| [Meridian Adventure Dive](https://raja.meridianadventuredive.com) | Resort | info@meridianadventure.com | Yes | Camera facilities, good for photographers |
+| [Raja Ampat Dive Lodge](https://rajaampatdivelodge.com) | Resort | reservations@rajaampatdivelodge.com | Yes | Comfortable land-based option, central location |
+| [Soul Scuba Divers](https://soulscuba.com) | Land-based | reservations@soulscuba.com | Yes | Small groups, conservation-minded |
+| [Misool Eco Resort](https://misool.info) | Resort | reservations@misoolecoresort.com | Yes | Premium eco-resort in south Raja, pristine reefs, conservation-focused |
+| [Aggressor Adventures (Raja Ampat Aggressor)](https://aggressor.com) | Liveaboard | rajaampat@aggressor.com | Yes | International fleet standards, predictable operations |
+| [Mermaid Liveaboards](https://mermaid-liveaboards.com) | Liveaboard | info@mermaid-liveaboards.com | Yes | Stable steel vessels, good for photographers |
+| [Indo Siren (Master Liveaboards)](https://masterliveaboards.com) | Liveaboard | info@masterliveaboards.com | Yes | Mid–premium tier, longer itineraries |
+| [Coralia Liveaboard](https://coralia-liveaboard.com) | Liveaboard | info@coralia-liveaboard.com | Yes | Boutique phinisi, small groups |
+| [Amira Liveaboard](https://amira-indonesia.com) | Liveaboard | info@amiraboard.com | Yes | Long-standing Indonesia specialist |
+| [Damai Liveaboards](https://dive-damai.com) | Luxury Liveaboard | info@damaii.com | Yes | High-end luxury, very spacious dive deck |
 
 ---
 
