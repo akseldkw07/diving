@@ -58,4 +58,5 @@
 ## Suggested Mix & Match Chains
 
 Naga-Biru (leave one day early) --> Gaya Baru Indah
+
 Gaya Baru Indah -> Seven Seas (tight transfer)
