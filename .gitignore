@@ -85,9 +85,14 @@ static_collected/
 
 # Temporary files (often hidden)
 *~
+~*
 *.bak
-*.swp     # Vim swap files
-.DS_Store # macOS specific
+*.swp
+.DS_Store
+
+# Claude Desktop
+ClaudeDesktopConfig.json
+.claude/
 
 scratch/
 vault/
